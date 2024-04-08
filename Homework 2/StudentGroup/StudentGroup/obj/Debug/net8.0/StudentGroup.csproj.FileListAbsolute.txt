@@ -1,0 +1,14 @@
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfoInputs.cache
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfo.cs
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.csproj.CoreCompileInputs.cache
+D:\C#\Homework 2\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.exe
+D:\C#\Homework 2\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.deps.json
+D:\C#\Homework 2\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.runtimeconfig.json
+D:\C#\Homework 2\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.dll
+D:\C#\Homework 2\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.pdb
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.dll
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\refint\StudentGroup.dll
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.pdb
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.genruntimeconfig.cache
+D:\C#\Homework 2\StudentGroup\StudentGroup\obj\Debug\net8.0\ref\StudentGroup.dll
