@@ -1,0 +1,14 @@
+D:\C#\Homework 3\Substrings\Substrings\bin\Debug\net8.0\Substrings.exe
+D:\C#\Homework 3\Substrings\Substrings\bin\Debug\net8.0\Substrings.deps.json
+D:\C#\Homework 3\Substrings\Substrings\bin\Debug\net8.0\Substrings.runtimeconfig.json
+D:\C#\Homework 3\Substrings\Substrings\bin\Debug\net8.0\Substrings.dll
+D:\C#\Homework 3\Substrings\Substrings\bin\Debug\net8.0\Substrings.pdb
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\Substrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\Substrings.AssemblyInfoInputs.cache
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\Substrings.AssemblyInfo.cs
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\Substrings.csproj.CoreCompileInputs.cache
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\Substrings.dll
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\refint\Substrings.dll
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\Substrings.pdb
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\Substrings.genruntimeconfig.cache
+D:\C#\Homework 3\Substrings\Substrings\obj\Debug\net8.0\ref\Substrings.dll

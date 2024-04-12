@@ -1,0 +1,14 @@
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.exe
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.deps.json
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.runtimeconfig.json
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.dll
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.pdb
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfoInputs.cache
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfo.cs
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.csproj.CoreCompileInputs.cache
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.dll
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\refint\AgeCalculator.dll
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.genruntimeconfig.cache
+D:\C#\Homework 3\AgeCalculator\AgeCalculator\obj\Debug\net8.0\ref\AgeCalculator.dll

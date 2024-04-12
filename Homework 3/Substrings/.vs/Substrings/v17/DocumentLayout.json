@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Homework 3\\Substrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2F8D78-EA82-49DF-B038-954BE3B619DE}|Substrings\\Substrings.csproj|d:\\c#\\homework 3\\substrings\\substrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2F8D78-EA82-49DF-B038-954BE3B619DE}|Substrings\\Substrings.csproj|solutionrelative:substrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Homework 3\\Substrings\\Substrings\\Program.cs",
+              "RelativeDocumentMoniker": "Substrings\\Program.cs",
+              "ToolTip": "D:\\C#\\Homework 3\\Substrings\\Substrings\\Program.cs",
+              "RelativeToolTip": "Substrings\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:39:33.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
