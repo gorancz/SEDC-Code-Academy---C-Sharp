@@ -1,0 +1,14 @@
+D:\C#\Homework 4\Racing\Racing\bin\Debug\net8.0\Racing.exe
+D:\C#\Homework 4\Racing\Racing\bin\Debug\net8.0\Racing.deps.json
+D:\C#\Homework 4\Racing\Racing\bin\Debug\net8.0\Racing.runtimeconfig.json
+D:\C#\Homework 4\Racing\Racing\bin\Debug\net8.0\Racing.dll
+D:\C#\Homework 4\Racing\Racing\bin\Debug\net8.0\Racing.pdb
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\Racing.AssemblyInfoInputs.cache
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\Racing.AssemblyInfo.cs
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\Racing.csproj.CoreCompileInputs.cache
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\Racing.dll
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\refint\Racing.dll
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\Racing.pdb
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\Racing.genruntimeconfig.cache
+D:\C#\Homework 4\Racing\Racing\obj\Debug\net8.0\ref\Racing.dll
