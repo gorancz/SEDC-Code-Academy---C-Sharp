@@ -6,8 +6,8 @@
         {
             Customer[] customers = new Customer[]
             {
-                new Customer { CardNumber = "123456789", Pin = 1234, FullName = "Mika Mikic", Balance = 2500 },
-                new Customer { CardNumber = "987654321", Pin = 5678, FullName = "Pera Peric", Balance = 8500 }
+                new Customer ("123456789", 1234, "Mika Mikic", 2500),
+                new Customer ("987654321", 5678, "Pera Peric", 8500)
             };
 
             Customer customer = null;
