@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SalesPersonnelManagement/1.0.0": {
+        "dependencies": {
+          "CommonModels": "1.0.0"
+        },
+        "runtime": {
+          "SalesPersonnelManagement.dll": {}
+        }
+      },
+      "CommonModels/1.0.0": {
+        "runtime": {
+          "CommonModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalesPersonnelManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

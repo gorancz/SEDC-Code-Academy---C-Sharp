@@ -1,0 +1,11 @@
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\bin\Debug\net8.0\CommonModels.deps.json
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\bin\Debug\net8.0\CommonModels.dll
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\bin\Debug\net8.0\CommonModels.pdb
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\obj\Debug\net8.0\CommonModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\obj\Debug\net8.0\CommonModels.AssemblyInfoInputs.cache
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\obj\Debug\net8.0\CommonModels.AssemblyInfo.cs
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\obj\Debug\net8.0\CommonModels.csproj.CoreCompileInputs.cache
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\obj\Debug\net8.0\CommonModels.dll
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\obj\Debug\net8.0\refint\CommonModels.dll
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\obj\Debug\net8.0\CommonModels.pdb
+D:\C#\Homework 6\SalesPersonnelManagement\CommonModels\obj\Debug\net8.0\ref\CommonModels.dll
