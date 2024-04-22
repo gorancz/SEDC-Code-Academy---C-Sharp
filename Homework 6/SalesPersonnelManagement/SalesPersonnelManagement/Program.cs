@@ -20,7 +20,8 @@ namespace SalesPersonnelManagement
 
             Console.WriteLine("---------------------------------------------");
 
-            SalesPerson salesPerson = new SalesPerson("Milica", "Dujakovic", 500, Role.Sales);
+            double initialSuccessSaleRevenue = 2000;
+            SalesPerson salesPerson = new SalesPerson("Milica", "Dujakovic", 500, Role.Sales, initialSuccessSaleRevenue);
             salesPerson.AddSuccessRevenue(6000);
             salesPerson.PrintInfo();
             Console.WriteLine($"Salary + Bonus: {salesPerson.GetSalary()}$");

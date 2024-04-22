@@ -5,10 +5,10 @@ namespace CommonModels.Models
     {
         private double SuccessSaleRevenue { get; set; }
 
-        public SalesPerson(string firstName, string lastName, double initialSalary, Role role)
+        public SalesPerson(string firstName, string lastName, double initialSalary, Role role, double initialSuccessSaleRevenue)
             : base(firstName, lastName, 500, Role.Sales)
         {
-
+            SuccessSaleRevenue = initialSuccessSaleRevenue;
         }
 
         public void AddSuccessRevenue(double revenue)
