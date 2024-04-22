@@ -3,10 +3,10 @@ namespace CommonModels.Models
 {
     public class SalesPerson : Employee
     {
-        private double SuccessSaleRevenue;
+        private double SuccessSaleRevenue { get; set; }
 
         public SalesPerson(string firstName, string lastName, double initialSalary, Role role)
-            : base(firstName, lastName, initialSalary, Role.Sales)
+            : base(firstName, lastName, 500, Role.Sales)
         {
 
         }

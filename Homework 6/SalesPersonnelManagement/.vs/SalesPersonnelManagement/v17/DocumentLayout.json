@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{0E047B4A-25FF-4F41-AFFE-3CE96E38B197}|SalesPersonnelManagement\\SalesPersonnelManagement.csproj|solutionrelative:salespersonnelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|d:\\c#\\homework 6\\salespersonnelmanagement\\commonmodels\\models\\employee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|solutionrelative:commonmodels\\models\\employee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|d:\\c#\\homework 6\\salespersonnelmanagement\\commonmodels\\models\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|solutionrelative:commonmodels\\models\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|d:\\c#\\homework 6\\salespersonnelmanagement\\commonmodels\\models\\manager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|solutionrelative:commonmodels\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|d:\\c#\\homework 6\\salespersonnelmanagement\\commonmodels\\models\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|solutionrelative:commonmodels\\models\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|d:\\c#\\homework 6\\salespersonnelmanagement\\commonmodels\\models\\employee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6ED7850-733C-471F-870C-EB3718547CAB}|CommonModels\\CommonModels.csproj|solutionrelative:commonmodels\\models\\employee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E047B4A-25FF-4F41-AFFE-3CE96E38B197}|SalesPersonnelManagement\\SalesPersonnelManagement.csproj|d:\\c#\\homework 6\\salespersonnelmanagement\\salespersonnelmanagement\\salespersonnelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -43,7 +43,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SalesPersonnelManagement",
+              "Title": "SalesPersonnelManagement.csproj",
               "DocumentMoniker": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\SalesPersonnelManagement\\SalesPersonnelManagement.csproj",
               "RelativeDocumentMoniker": "SalesPersonnelManagement\\SalesPersonnelManagement.csproj",
               "ToolTip": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\SalesPersonnelManagement\\SalesPersonnelManagement.csproj",
@@ -61,20 +61,20 @@
               "RelativeDocumentMoniker": "CommonModels\\Models\\Manager .cs",
               "ToolTip": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\CommonModels\\Models\\Manager .cs",
               "RelativeToolTip": "CommonModels\\Models\\Manager .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T11:15:46.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SalesPerson.cs",
               "DocumentMoniker": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\CommonModels\\Models\\SalesPerson.cs",
               "RelativeDocumentMoniker": "CommonModels\\Models\\SalesPerson.cs",
               "ToolTip": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\CommonModels\\Models\\SalesPerson.cs",
               "RelativeToolTip": "CommonModels\\Models\\SalesPerson.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAswAgAAABCAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwAcAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T11:03:04.335Z",
               "EditorCaption": ""
@@ -87,20 +87,20 @@
               "RelativeDocumentMoniker": "CommonModels\\Enums\\Role.cs",
               "ToolTip": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\CommonModels\\Enums\\Role.cs",
               "RelativeToolTip": "CommonModels\\Enums\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T10:59:30.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Employee .cs",
               "DocumentMoniker": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\CommonModels\\Models\\Employee .cs",
               "RelativeDocumentMoniker": "CommonModels\\Models\\Employee .cs",
               "ToolTip": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\CommonModels\\Models\\Employee .cs",
               "RelativeToolTip": "CommonModels\\Models\\Employee .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T10:57:08.719Z",
               "EditorCaption": ""
@@ -113,7 +113,7 @@
               "RelativeDocumentMoniker": "SalesPersonnelManagement\\Program.cs",
               "ToolTip": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\SalesPersonnelManagement\\Program.cs",
               "RelativeToolTip": "SalesPersonnelManagement\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA9wBcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T10:55:29.987Z",
               "EditorCaption": ""
@@ -121,15 +121,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CommonModels",
+              "Title": "CommonModels.csproj",
               "DocumentMoniker": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\CommonModels\\CommonModels.csproj",
               "RelativeDocumentMoniker": "CommonModels\\CommonModels.csproj",
               "ToolTip": "D:\\C#\\Homework 6\\SalesPersonnelManagement\\CommonModels\\CommonModels.csproj",
               "RelativeToolTip": "CommonModels\\CommonModels.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-21T10:56:26.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T10:56:26.131Z"
             }
           ]
         }

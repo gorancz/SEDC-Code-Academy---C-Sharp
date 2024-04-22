@@ -3,7 +3,7 @@ namespace CommonModels.Models
 {
     public class Manager : Employee
     {
-        private double Bonus;
+        private double Bonus { get; set; }
 
         public Manager(string firstName, string lastName, double initialSalary, Role role)
             : base(firstName, lastName, initialSalary, Role.Manager)
