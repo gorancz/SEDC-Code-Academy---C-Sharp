@@ -8,11 +8,11 @@ namespace CommonModels.Models
         public double Salary { get; set; }
         public Role Role { get; set; }
 
-        public Employee(string firstName, string lastName, double initialSalary, Role role)
+        public Employee(string firstName, string lastName, Role role)
         {
             FirstName = firstName;
             LastName = lastName;
-            Salary = initialSalary;
+            Salary = 500;
             Role = role;
         }
 
