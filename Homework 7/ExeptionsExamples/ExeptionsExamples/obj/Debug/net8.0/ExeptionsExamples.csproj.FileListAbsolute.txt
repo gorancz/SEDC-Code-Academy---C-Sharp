@@ -1,0 +1,14 @@
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\ExeptionsExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\ExeptionsExamples.AssemblyInfoInputs.cache
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\ExeptionsExamples.AssemblyInfo.cs
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\ExeptionsExamples.csproj.CoreCompileInputs.cache
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\bin\Debug\net8.0\ExeptionsExamples.exe
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\bin\Debug\net8.0\ExeptionsExamples.deps.json
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\bin\Debug\net8.0\ExeptionsExamples.runtimeconfig.json
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\bin\Debug\net8.0\ExeptionsExamples.dll
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\bin\Debug\net8.0\ExeptionsExamples.pdb
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\ExeptionsExamples.dll
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\refint\ExeptionsExamples.dll
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\ExeptionsExamples.pdb
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\ExeptionsExamples.genruntimeconfig.cache
+D:\C#\Homework 7\ExeptionsExamples\ExeptionsExamples\obj\Debug\net8.0\ref\ExeptionsExamples.dll

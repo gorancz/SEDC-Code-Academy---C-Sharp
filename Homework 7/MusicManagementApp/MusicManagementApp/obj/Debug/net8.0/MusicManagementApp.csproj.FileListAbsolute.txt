@@ -1,0 +1,14 @@
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\bin\Debug\net8.0\MusicManagementApp.exe
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\bin\Debug\net8.0\MusicManagementApp.deps.json
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\bin\Debug\net8.0\MusicManagementApp.runtimeconfig.json
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\bin\Debug\net8.0\MusicManagementApp.dll
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\bin\Debug\net8.0\MusicManagementApp.pdb
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\MusicManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\MusicManagementApp.AssemblyInfoInputs.cache
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\MusicManagementApp.AssemblyInfo.cs
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\MusicManagementApp.csproj.CoreCompileInputs.cache
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\MusicManagementApp.dll
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\refint\MusicManagementApp.dll
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\MusicManagementApp.pdb
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\MusicManagementApp.genruntimeconfig.cache
+D:\C#\Homework 7\MusicManagementApp\MusicManagementApp\obj\Debug\net8.0\ref\MusicManagementApp.dll

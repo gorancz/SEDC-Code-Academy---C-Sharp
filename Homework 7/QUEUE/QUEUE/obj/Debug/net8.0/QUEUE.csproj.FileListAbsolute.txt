@@ -1,0 +1,14 @@
+D:\C#\Homework 7\QUEUE\QUEUE\bin\Debug\net8.0\QUEUE.exe
+D:\C#\Homework 7\QUEUE\QUEUE\bin\Debug\net8.0\QUEUE.deps.json
+D:\C#\Homework 7\QUEUE\QUEUE\bin\Debug\net8.0\QUEUE.runtimeconfig.json
+D:\C#\Homework 7\QUEUE\QUEUE\bin\Debug\net8.0\QUEUE.dll
+D:\C#\Homework 7\QUEUE\QUEUE\bin\Debug\net8.0\QUEUE.pdb
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\QUEUE.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\QUEUE.AssemblyInfoInputs.cache
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\QUEUE.AssemblyInfo.cs
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\QUEUE.csproj.CoreCompileInputs.cache
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\QUEUE.dll
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\refint\QUEUE.dll
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\QUEUE.pdb
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\QUEUE.genruntimeconfig.cache
+D:\C#\Homework 7\QUEUE\QUEUE\obj\Debug\net8.0\ref\QUEUE.dll

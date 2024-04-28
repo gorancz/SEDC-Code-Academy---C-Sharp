@@ -1,0 +1,14 @@
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\bin\Debug\net8.0\MovieTheaterManagement.exe
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\bin\Debug\net8.0\MovieTheaterManagement.deps.json
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\bin\Debug\net8.0\MovieTheaterManagement.runtimeconfig.json
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\bin\Debug\net8.0\MovieTheaterManagement.dll
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\bin\Debug\net8.0\MovieTheaterManagement.pdb
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\MovieTheaterManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\MovieTheaterManagement.AssemblyInfoInputs.cache
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\MovieTheaterManagement.AssemblyInfo.cs
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\MovieTheaterManagement.csproj.CoreCompileInputs.cache
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\MovieTheaterManagement.dll
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\refint\MovieTheaterManagement.dll
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\MovieTheaterManagement.pdb
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\MovieTheaterManagement.genruntimeconfig.cache
+D:\C#\Homework 7\MovieTheaterManagement\MovieTheaterManagement\obj\Debug\net8.0\ref\MovieTheaterManagement.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Homework 7\\ExeptionsExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5F6F82-B216-4808-BBB3-C20D11EC5F69}|ExeptionsExamples\\ExeptionsExamples.csproj|d:\\c#\\homework 7\\exeptionsexamples\\exeptionsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5F6F82-B216-4808-BBB3-C20D11EC5F69}|ExeptionsExamples\\ExeptionsExamples.csproj|solutionrelative:exeptionsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5F6F82-B216-4808-BBB3-C20D11EC5F69}|ExeptionsExamples\\ExeptionsExamples.csproj|d:\\c#\\homework 7\\exeptionsexamples\\exeptionsexamples\\exeptions\\quinshiftacademyexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5F6F82-B216-4808-BBB3-C20D11EC5F69}|ExeptionsExamples\\ExeptionsExamples.csproj|solutionrelative:exeptionsexamples\\exeptions\\quinshiftacademyexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuinshiftAcademyExeption.cs",
+              "DocumentMoniker": "D:\\C#\\Homework 7\\ExeptionsExamples\\ExeptionsExamples\\Exeptions\\QuinshiftAcademyExeption.cs",
+              "RelativeDocumentMoniker": "ExeptionsExamples\\Exeptions\\QuinshiftAcademyExeption.cs",
+              "ToolTip": "D:\\C#\\Homework 7\\ExeptionsExamples\\ExeptionsExamples\\Exeptions\\QuinshiftAcademyExeption.cs",
+              "RelativeToolTip": "ExeptionsExamples\\Exeptions\\QuinshiftAcademyExeption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:41:40.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Homework 7\\ExeptionsExamples\\ExeptionsExamples\\Program.cs",
+              "RelativeDocumentMoniker": "ExeptionsExamples\\Program.cs",
+              "ToolTip": "D:\\C#\\Homework 7\\ExeptionsExamples\\ExeptionsExamples\\Program.cs",
+              "RelativeToolTip": "ExeptionsExamples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:45:26.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
