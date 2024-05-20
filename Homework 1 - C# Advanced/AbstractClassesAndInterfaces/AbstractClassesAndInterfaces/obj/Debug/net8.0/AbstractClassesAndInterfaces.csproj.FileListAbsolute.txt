@@ -1,0 +1,14 @@
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\net8.0\AbstractClassesAndInterfaces.exe
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\net8.0\AbstractClassesAndInterfaces.deps.json
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\net8.0\AbstractClassesAndInterfaces.runtimeconfig.json
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\net8.0\AbstractClassesAndInterfaces.dll
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\bin\Debug\net8.0\AbstractClassesAndInterfaces.pdb
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\AbstractClassesAndInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\AbstractClassesAndInterfaces.AssemblyInfoInputs.cache
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\AbstractClassesAndInterfaces.AssemblyInfo.cs
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\AbstractClassesAndInterfaces.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\AbstractClassesAndInterfaces.dll
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\refint\AbstractClassesAndInterfaces.dll
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\AbstractClassesAndInterfaces.pdb
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\AbstractClassesAndInterfaces.genruntimeconfig.cache
+D:\C# Advanced\Homework 1 - C# Advanced\AbstractClassesAndInterfaces\AbstractClassesAndInterfaces\obj\Debug\net8.0\ref\AbstractClassesAndInterfaces.dll

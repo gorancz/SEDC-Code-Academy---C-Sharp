@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|d:\\c# advanced\\homework 1 - c# advanced\\abstractclassesandinterfaces\\abstractclassesandinterfaces\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF703BF0-A2FB-43A4-B0F2-BC15D45F1B0B}|AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces.csproj|solutionrelative:abstractclassesandinterfaces\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Program.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Program.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:34:56.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\Employee.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Employee.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:56:00.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Rectangle.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\Rectangle.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Rectangle.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:44:49.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\Circle.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Circle.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:46:00.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Interfaces\\IShape.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Interfaces\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:44:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Interfaces\\ISearchable.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Interfaces\\ISearchable.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Interfaces\\ISearchable.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Interfaces\\ISearchable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:37:27.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Programmer.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\Programmer.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Programmer.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\Programmer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:57:45.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebPage.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\WebPage.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\WebPage.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\WebPage.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\WebPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:39:30.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\Document.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Document.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:38:09.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\Triangle.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Triangle.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\Triangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:46:37.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Shape.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\Shape.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Shape.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:48:17.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "AbstractClassesAndInterfaces\\Models\\Manager.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 1 - C# Advanced\\AbstractClassesAndInterfaces\\AbstractClassesAndInterfaces\\Models\\Manager.cs",
+              "RelativeToolTip": "AbstractClassesAndInterfaces\\Models\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:56:33.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
