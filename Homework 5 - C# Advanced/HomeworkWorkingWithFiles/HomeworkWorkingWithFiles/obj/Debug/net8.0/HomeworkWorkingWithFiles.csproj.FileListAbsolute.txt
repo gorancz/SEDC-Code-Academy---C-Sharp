@@ -1,0 +1,14 @@
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\bin\Debug\net8.0\HomeworkWorkingWithFiles.exe
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\bin\Debug\net8.0\HomeworkWorkingWithFiles.deps.json
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\bin\Debug\net8.0\HomeworkWorkingWithFiles.runtimeconfig.json
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\bin\Debug\net8.0\HomeworkWorkingWithFiles.dll
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\bin\Debug\net8.0\HomeworkWorkingWithFiles.pdb
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\HomeworkWorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\HomeworkWorkingWithFiles.AssemblyInfoInputs.cache
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\HomeworkWorkingWithFiles.AssemblyInfo.cs
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\HomeworkWorkingWithFiles.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\HomeworkWorkingWithFiles.dll
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\refint\HomeworkWorkingWithFiles.dll
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\HomeworkWorkingWithFiles.pdb
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\HomeworkWorkingWithFiles.genruntimeconfig.cache
+D:\C# Advanced\Homework 5 - C# Advanced\HomeworkWorkingWithFiles\HomeworkWorkingWithFiles\obj\Debug\net8.0\ref\HomeworkWorkingWithFiles.dll
