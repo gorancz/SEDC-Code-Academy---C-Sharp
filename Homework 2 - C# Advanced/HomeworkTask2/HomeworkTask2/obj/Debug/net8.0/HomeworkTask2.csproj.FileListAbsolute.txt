@@ -1,0 +1,14 @@
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\bin\Debug\net8.0\HomeworkTask2.exe
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\bin\Debug\net8.0\HomeworkTask2.deps.json
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\bin\Debug\net8.0\HomeworkTask2.runtimeconfig.json
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\bin\Debug\net8.0\HomeworkTask2.dll
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\bin\Debug\net8.0\HomeworkTask2.pdb
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\HomeworkTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\HomeworkTask2.AssemblyInfoInputs.cache
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\HomeworkTask2.AssemblyInfo.cs
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\HomeworkTask2.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\HomeworkTask2.dll
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\refint\HomeworkTask2.dll
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\HomeworkTask2.pdb
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\HomeworkTask2.genruntimeconfig.cache
+D:\C# Advanced\Homework 2 - C# Advanced\HomeworkTask2\HomeworkTask2\obj\Debug\net8.0\ref\HomeworkTask2.dll
