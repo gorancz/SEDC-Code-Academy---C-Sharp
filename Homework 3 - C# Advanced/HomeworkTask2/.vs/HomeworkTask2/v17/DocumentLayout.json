@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|d:\\c# advanced\\homework 3 - c# advanced\\homeworktask2\\homeworktask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|solutionrelative:homeworktask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|d:\\c# advanced\\homework 3 - c# advanced\\homeworktask2\\homeworktask2\\utils\\printinconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|solutionrelative:homeworktask2\\utils\\printinconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|d:\\c# advanced\\homework 3 - c# advanced\\homeworktask2\\homeworktask2\\homeworktask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|solutionrelative:homeworktask2\\homeworktask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|d:\\c# advanced\\homework 3 - c# advanced\\homeworktask2\\homeworktask2\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|solutionrelative:homeworktask2\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|d:\\c# advanced\\homework 3 - c# advanced\\homeworktask2\\homeworktask2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|solutionrelative:homeworktask2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|d:\\c# advanced\\homework 3 - c# advanced\\homeworktask2\\homeworktask2\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|solutionrelative:homeworktask2\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|d:\\c# advanced\\homework 3 - c# advanced\\homeworktask2\\homeworktask2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE061F6-AABE-49C3-B19E-D619E9F69CD8}|HomeworkTask2\\HomeworkTask2.csproj|solutionrelative:homeworktask2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeworkTask2",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\HomeworkTask2.csproj",
+              "RelativeDocumentMoniker": "HomeworkTask2\\HomeworkTask2.csproj",
+              "ToolTip": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\HomeworkTask2.csproj",
+              "RelativeToolTip": "HomeworkTask2\\HomeworkTask2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T06:43:46.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Models\\Airplane.cs",
+              "RelativeDocumentMoniker": "HomeworkTask2\\Models\\Airplane.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Models\\Airplane.cs",
+              "RelativeToolTip": "HomeworkTask2\\Models\\Airplane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:36:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Models\\Boat.cs",
+              "RelativeDocumentMoniker": "HomeworkTask2\\Models\\Boat.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Models\\Boat.cs",
+              "RelativeToolTip": "HomeworkTask2\\Models\\Boat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:36:25.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotorBike.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Models\\MotorBike.cs",
+              "RelativeDocumentMoniker": "HomeworkTask2\\Models\\MotorBike.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Models\\MotorBike.cs",
+              "RelativeToolTip": "HomeworkTask2\\Models\\MotorBike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:36:17.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "HomeworkTask2\\Models\\Car.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Models\\Car.cs",
+              "RelativeToolTip": "HomeworkTask2\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:36:05.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintInConsole.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Utils\\PrintInConsole.cs",
+              "RelativeDocumentMoniker": "HomeworkTask2\\Utils\\PrintInConsole.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Utils\\PrintInConsole.cs",
+              "RelativeToolTip": "HomeworkTask2\\Utils\\PrintInConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:34:40.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkTask2\\Program.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 3 - C# Advanced\\HomeworkTask2\\HomeworkTask2\\Program.cs",
+              "RelativeToolTip": "HomeworkTask2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:34:13.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
