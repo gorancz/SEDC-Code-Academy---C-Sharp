@@ -1,0 +1,14 @@
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\bin\Debug\net8.0\LINQ.exe
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\bin\Debug\net8.0\LINQ.deps.json
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\bin\Debug\net8.0\LINQ.runtimeconfig.json
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\bin\Debug\net8.0\LINQ.dll
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\bin\Debug\net8.0\LINQ.pdb
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\LINQ.AssemblyInfoInputs.cache
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\LINQ.AssemblyInfo.cs
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\LINQ.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\LINQ.dll
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\refint\LINQ.dll
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\LINQ.pdb
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\LINQ.genruntimeconfig.cache
+D:\C# Advanced\Homework 4 - C# Advanced\LINQ\LINQ\obj\Debug\net8.0\ref\LINQ.dll

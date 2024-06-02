@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Advanced\\Homework 4 - C# Advanced\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE786D5-1D59-4DF0-A544-A4F9B4F4D226}|LINQ\\LINQ.csproj|d:\\c# advanced\\homework 4 - c# advanced\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE786D5-1D59-4DF0-A544-A4F9B4F4D226}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE786D5-1D59-4DF0-A544-A4F9B4F4D226}|LINQ\\LINQ.csproj|d:\\c# advanced\\homework 4 - c# advanced\\linq\\linq\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE786D5-1D59-4DF0-A544-A4F9B4F4D226}|LINQ\\LINQ.csproj|solutionrelative:linq\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE786D5-1D59-4DF0-A544-A4F9B4F4D226}|LINQ\\LINQ.csproj|d:\\c# advanced\\homework 4 - c# advanced\\linq\\linq\\linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AE786D5-1D59-4DF0-A544-A4F9B4F4D226}|LINQ\\LINQ.csproj|solutionrelative:linq\\linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 4 - C# Advanced\\LINQ\\LINQ\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "LINQ\\Models\\Person.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 4 - C# Advanced\\LINQ\\LINQ\\Models\\Person.cs",
+              "RelativeToolTip": "LINQ\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:47:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LINQ",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 4 - C# Advanced\\LINQ\\LINQ\\LINQ.csproj",
+              "RelativeDocumentMoniker": "LINQ\\LINQ.csproj",
+              "ToolTip": "D:\\C# Advanced\\Homework 4 - C# Advanced\\LINQ\\LINQ\\LINQ.csproj",
+              "RelativeToolTip": "LINQ\\LINQ.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T08:47:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Advanced\\Homework 4 - C# Advanced\\LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "D:\\C# Advanced\\Homework 4 - C# Advanced\\LINQ\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAOgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:46:50.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
